@@ -1,0 +1,1 @@
+<view><map style="width:100%;height:85vh;" id="Id" latitude="{{latitude}}" longitude="{{longitude}}" markers="{{markers}}" data-event-opts="{{[['markertap',[['showMarker',['$event']]]]]}}" bindmarkertap="__e"></map><view hidden="{{!(message)}}"><text>{{detailtitle}}</text></view></view>

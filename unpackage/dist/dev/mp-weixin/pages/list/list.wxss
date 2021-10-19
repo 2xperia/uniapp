@@ -1,0 +1,40 @@
+
+.topbar{
+	display: flex;
+	margin-top: 25px;
+	width: 95%;
+	height: 40px;
+	margin: 0 auto;
+	border-bottom-style:solid;
+	border-bottom-width: 4rpx;
+	border-bottom-color: #d7d7d7;
+}
+.button{
+	width: 70px;
+	height:30px;
+	background-color: #ffd8c1;
+	font-size: 11px;
+	padding: 5rpx;
+	color: #aa5500;
+}
+.text-area {
+	margin: 20px;
+	border-left-style:solid;
+	border-left-width: 12rpx;
+	border-left-color: red;
+	margin-left: 10rpx;
+}
+.title {
+	font-size: 30rpx;	
+	margin-left: 6rpx;
+	color: black;
+	font-weight: 700;
+}
+.options{
+	margin-left: 30rpx;
+	width: 90%;
+}
+.text{
+	margin-top: 10rpx;
+}
+
